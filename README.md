@@ -1,9 +1,7 @@
-# chart-helloworld
-This repository contains 1 chart that is used to deploy helloworld to kubernetes.
-- helloworld
+july 16 adobe
 
-## Installing
-Install `helloworld` chart
-```
-helm install --name helloworld chartmuseum/helloworld
-```
+k8s access req
+update doc for github app require for own lever permission
+flex doc where we have argocd/argo workflow and event but those are still in progress to full knowledge.
+working on the script to automate the conversion
+script updation
